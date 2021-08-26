@@ -1,0 +1,9 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: cornflowerblue;
+    background-color: crimson;
+}
+.border{
+    border: 5px 5px 5px solid tan;
+}
